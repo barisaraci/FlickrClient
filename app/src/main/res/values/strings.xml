@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FlickrClient</string>
+    <string name="flickr">flickr</string>
+
+    <string name="error">error</string>
+    <string name="no_image">no results found</string>
+    <string name="new_page">new page loading</string>
+    <string name="refresh">refreshing</string>
+    <string name="tag_info">e.g. "nature,winter"</string>
+</resources>
